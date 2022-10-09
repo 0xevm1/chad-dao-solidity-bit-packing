@@ -6,6 +6,8 @@ Utilizes bitshifting and bitmasking on storage and retrieval to stuff multiple a
 
 The Typescript example is in the `test` folder.
 
+remember to set the `.env` file, and populate it with appropriate values
+
 Includes hardhat-tracer to show the Ethereum Virtual Machine's `SLOAD` and `SSTORE` utilization.
 
 ![SSTORE and SLOAD tracer](https://github.com/0xevm1/0xEVM1/blob/main/evm-efficiency-tracer.gif)
