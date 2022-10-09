@@ -8,4 +8,6 @@ The Typescript example is in the `test` folder.
 
 Includes hardhat-tracer to show the Ethereum Virtual Machine's `SLOAD` and `SSTORE` utilization.
 
+![SSTORE and SLOAD tracer](https://github.com/0xevm1/0xEVM1/blob/main/evm-efficiency-tracer.gif)
+
 Use `npx hardhat test --fulltrace` for that capability.
